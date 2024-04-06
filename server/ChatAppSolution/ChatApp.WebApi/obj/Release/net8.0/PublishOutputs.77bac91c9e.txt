@@ -1,0 +1,7 @@
+C:\Users\v-karansin\Karan\ChatApp\server\ChatAppSolution\ChatApp.WebApi\obj\Release\net8.0\PubTmp\Out\ChatApp.WebApi.exe
+C:\Users\v-karansin\Karan\ChatApp\server\ChatAppSolution\ChatApp.WebApi\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\v-karansin\Karan\ChatApp\server\ChatAppSolution\ChatApp.WebApi\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\v-karansin\Karan\ChatApp\server\ChatAppSolution\ChatApp.WebApi\obj\Release\net8.0\PubTmp\Out\ChatApp.WebApi.dll
+C:\Users\v-karansin\Karan\ChatApp\server\ChatAppSolution\ChatApp.WebApi\obj\Release\net8.0\PubTmp\Out\ChatApp.WebApi.deps.json
+C:\Users\v-karansin\Karan\ChatApp\server\ChatAppSolution\ChatApp.WebApi\obj\Release\net8.0\PubTmp\Out\ChatApp.WebApi.runtimeconfig.json
+C:\Users\v-karansin\Karan\ChatApp\server\ChatAppSolution\ChatApp.WebApi\obj\Release\net8.0\PubTmp\Out\ChatApp.WebApi.pdb

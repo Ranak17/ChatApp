@@ -1,0 +1,33 @@
+﻿{
+  "$schema": "http://json.schemastore.org/launchsettings.json",
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:62994",
+      "sslPort": 0
+    }
+  },
+  "profiles": {
+    "http": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": true,
+      "launchUrl": "weatherforecast",
+      "applicationUrl": "http://localhost:5219",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        //"AllowedCORSWeb": "https://chatapptesting.azurewebsites.net/"
+      }
+    },
+    "IIS Express": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "launchUrl": "weatherforecast",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development",
+        //"AllowedCORSWeb": "https://chatapptesting.azurewebsites.net/"
+      }
+    }
+  }
+}
